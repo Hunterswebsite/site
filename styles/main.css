@@ -191,9 +191,6 @@ main p {
 		margin: 0 auto;
 	}
 
-	.waves {
-margin-top: -59px;
-	}
 }
 
 @media (min-width: 400px) {
@@ -334,6 +331,6 @@ margin-top: 0px;
 
 	.waves {
 
-margin-top: 0px;
+	margin-top: 0px;
 	}
 }
