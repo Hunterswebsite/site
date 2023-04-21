@@ -1,0 +1,541 @@
+html{
+	width: 100%;
+	height: 100%;
+	min-width: 300px;
+	/* max-width: 2200px; */
+	margin: 0 auto;
+	}
+
+header{
+	font-family: Arial;
+	font-size: 20px;
+	color: #f7faf8;
+	font-weight: bold;
+	opacity: 58%;
+	background-color: #141414;
+	padding: 6px 0;
+	letter-spacing: .2em;
+	text-align: left;}
+
+img {
+	margin-right: 0px;
+	margin-top: 70px;}
+
+main p {
+	font-family: Arial;
+	font-size: 56px;
+	font-weight: bold;
+	opacity: 68%;
+	color: #ffffff;
+	text-align: left;
+	margin-left: 23px;
+	margin-top: 28px;}
+
+body{
+	width: 100%;
+	background-color: #1e1e1f;
+	text-align: center;
+	align-items: center;
+	height: 100%;
+	margin: 0 auto;
+	padding: 0;}
+
+.dark {
+	float: right;
+	margin-top: -46px;
+	margin-right: 10px;}
+
+.contact {
+	float: right;
+	margin-top: -47px;}
+
+.home {
+	float: right;
+	margin-top: -46px;
+	width: 0%;
+	}
+
+p.contacting {
+	float: right;
+  margin-top: 7px;
+  margin-right: -98px;}
+
+.Handshakess {
+	float: left;
+  margin-left: 120px;
+  margin-top: -110px;}
+
+.Linkedin {
+  margin-top: -58px;}
+
+.ZipRecruiter {
+	float: right;
+	margin-top: -20px;}
+
+.Indeed {
+	margin-left: -1052px;
+  float: left;
+  margin-top: 307px;}
+
+.Github {
+  margin-top: 56px;}
+
+.MessageMe {
+	float: right;
+  font-family: Arial;
+  font-weight: bolder;
+	margin-right: -1033px;
+  letter-spacing: 3px;
+  margin-top: 265px;
+  text-decoration: none;
+  color: #3b7fce;
+  font-size: 53px;}
+
+.dropbtn {
+	float: left;
+	color: white;
+	margin-top: -1px;
+	margin-left: 22px;
+	background-color: #1e1e1e;
+	font-size: 39px;
+	border: none;
+	}
+
+.dropdown-content {
+  display: none;
+  position: absolute;
+  margin-top: 13px;
+  width: 10%;
+  border-radius: 20px;
+  font-family: Franklin Gothic;
+  background-color: #212121;
+  min-width: 150px;
+  box-shadow: 0px 8px 16px 0px rgba(0,0,0,0.2);
+  margin-left: 139px;
+  z-index: 1;}
+
+.dropdown-content a {
+  color: white;
+  padding: 12px 16px;
+  text-decoration: none;
+  display: block;}
+
+.dropdown-content a:hover {background-color: #4e4e4e; border-radius: 10px;}
+.dropdown:hover .dropdown-content {display: block;}
+.dropdown:hover .dropbtn {background-color: #2c2c2c;border-radius: 10px;}
+
+@media (min-width: 300px) {
+
+	header {
+		font-size: 22px;
+		font-weight: bold;
+		opacity: 68%;
+		width: 100%;
+		text-align: center;
+		}
+
+	main p {
+		float: none;
+		width: 100%;
+		font-size: 20px;
+		text-align: center;
+		margin: 104px auto;
+		margin-bottom: -48px;
+		}
+
+	main img {
+		width: 50%;}
+
+	.dark {
+		float: left;
+		margin-left: 28px;
+		margin-top: -49px;}
+
+	.home {
+		width: 0%;
+		margin-right: 44px;
+		float: right;
+		}
+
+	.contact {
+		margin-right: 33px;
+		float: right;}
+
+	.Handshakess {
+		float: none;
+		display: block;
+		width: 94%;
+		margin: 0px auto;
+		}
+
+	.Linkedin {
+		/* margin-right: 0px; */
+		margin: 23px auto;
+		width: 81%;
+		display: block;
+		float: none;
+		}
+
+	.ZipRecruiter {
+		float: none;
+		display: block;
+		margin: 62px auto;
+		margin-bottom: 30px;
+		}
+
+	.Email {
+		width: 84%;
+		display: block;
+		margin: 4px auto;
+		margin-bottom: 10px;
+		}
+
+	.Indeed {
+		margin: -37px auto;
+		display: block;
+		width: 83%;
+		float: none;
+		}
+
+	.MessageMe {
+		float: none;
+		/* font-size: 66px; */
+		display: block;
+		margin: 82px auto;
+		font-size: 163%;
+		padding-bottom: 68px;
+		/* width: 36%; */
+		}
+
+	.dropdown-content {
+		margin-left: 130px;
+		margin-top: 0px;
+		}
+
+	.dropbtn {
+margin-top: 7px;
+margin-left: 12px;
+}
+}
+
+@media (min-width: 750px) {
+
+	main p {
+		font-size: 36px;
+	}
+}
+
+@media (min-width: 1200px) {
+
+		header {
+			margin-left: 0px;
+			font-size: 21px;
+			width: 100%;
+			font-weight: bold;
+			opacity: 68%;
+			text-align: left;
+		}
+
+		main p {
+			width: 50%;
+			font-size: 33px;
+			text-align: center;
+			margin-bottom: -81px;
+			margin: 88px auto;
+			margin-bottom: -68px;
+		}
+
+		section img {
+			width: 60%;
+		}
+
+		.dark {
+			float: right;
+			margin-left: 0px;
+			margin-right: 9px;
+			margin-top: -49px;
+		}
+
+		.home {
+			float: right;
+			margin-right: 53px;
+			margin-left: 9px;
+			margin-top: -50px;
+		}
+
+		.contact {
+			float: right;
+			margin-right: 27px;
+			margin-top: -53px;
+			margin-left: 22px;
+			margin-left: 36px;
+		}
+
+		.Handshakess {
+			float: left;
+			margin-top: 67px;
+			margin-left: 114px;
+			width: 37%;
+		}
+
+		.Linkedin {
+			width: 30%;
+			margin-top: 111px;
+			margin-bottom: 0px;
+			float: right;
+			/* margin: 0 auto; */
+			margin-right: 161px;
+		}
+
+		.ZipRecruiter {
+			width: 53%;
+			float: left;
+			margin-left: 30px;
+			margin-top: 118px;
+		}
+
+		.Email {
+			width: 28%;
+			margin-top: -177px;
+			margin-right: 175px;
+			float: right;
+		}
+
+		.Indeed {
+			margin-top: 96px;
+			margin-left: 87px;
+			float: left;
+			width: 41%;
+		}
+
+		.MessageMe {
+			font-size: 35px;
+			float: right;
+			margin-right: 0px;
+			padding-bottom: 49px;
+			margin-top: -98px;
+			width: 56%;
+		}
+
+		.dropdown-content {
+			margin-left: 56px;
+			margin-top: 2px;
+		}
+	}
+
+@media (min-width: 1490px) {
+
+			header {
+				margin-left: 0px;
+				font-size: 21px;
+				width: 100%;
+				font-weight: bold;
+				opacity: 68%;
+			}
+
+			main p {
+				width: 50%;
+				font-size: 33px;
+				text-align: center;
+				margin-bottom: -81px;
+				margin: 88px auto;
+				margin-bottom: -68px;
+			}
+
+			section img {
+				width: 60%;
+			}
+
+			.dark {
+				float: right;
+				margin-left: 0px;
+				margin-right: 9px;
+				margin-top: -49px;
+			}
+
+			.home {
+				float: right;
+				margin-right: 53px;
+				margin-left: 9px;
+				margin-top: -50px;
+			}
+
+			.contact {
+				float: right;
+				margin-right: 27px;
+				margin-top: -53px;
+				margin-left: 22px;
+				margin-left: 36px;
+			}
+
+			.Handshakess {
+				float: left;
+				margin-top: 67px;
+				margin-left: 142px;
+				width: 38%;
+			}
+
+			.Linkedin {
+				width: 30%;
+				margin-top: 123px;
+				margin-bottom: 0px;
+				float: right;
+				/* margin: 0 auto; */
+				margin-right: 213px;
+			}
+
+			.ZipRecruiter {
+				width: 53%;
+				float: left;
+				margin-left: 9px;
+				margin-top: 118px;
+			}
+
+			.Email {
+				width: 30%;
+				margin-top: -215px;
+				margin-right: 232px;
+				float: right;
+			}
+
+			.Indeed {
+				margin-top: 96px;
+				margin-left: 105px;
+				float: left;
+				width: 41%;
+			}
+
+			.MessageMe {
+				font-size: 35px;
+				float: right;
+				margin-right: 6px;
+				padding-bottom: 49px;
+				margin-top: -99px;
+				width: 56%;
+			}
+
+			.dropdown-content {
+				margin-left: 56px;
+				margin-top: 2px;
+			}
+		}
+
+@media (min-width: 1750px) {
+
+
+
+		.Linkedin {
+			width: 31%;
+			margin-top: 150px;
+			float: right;
+			margin-right: 205px;
+		}
+
+
+
+		.Email {
+			width: 32%;
+			margin-top: -239px;
+			margin-right: 188px;
+			float: right;
+		}
+
+		.ZipRecruiter {
+width: 55%;
+margin-left: -3px;
+		}
+
+
+		.MessageMe {
+			font-size: 55px;
+			float: right;
+			margin-right: 113px;
+			padding-bottom: 49px;
+			margin-top: 182px;
+			width: 39%;
+		}
+
+
+		.dropdown-content {
+			margin-left: 56px;
+			margin-top: 2px;
+		}
+}
+
+@media (min-width: 2000px) {
+
+		header {
+			font-size: 22px;
+			width: 100%;
+			font-weight: bold;
+			opacity: 74%;
+		}
+
+		main p {
+			width: 27%;
+			font-size: 39px;
+			margin-left: 26px;
+		}
+
+		.dark {
+			margin-right: 14px;
+			margin-top: -49px;
+		}
+
+		.contact {
+			margin-top: -53px;
+			margin-right: 27px;
+		}
+
+		.Handshakess {
+			float:left;
+			/* margin-left: 82px; */
+			/* margin-top: 70px; */
+			margin: 100px auto;
+			width: 35%;
+		}
+
+		.Linkedin {
+			float: none;
+			margin-top: 265px;
+			display: block;
+			width: 30%;
+			margin: 173px auto;
+			margin-bottom: 112px;
+		}
+
+		.ZipRecruiter {
+			margin-right: 38px;
+			/* margin-left: 6px; */
+			/* position: absolute; */
+			margin-bottom: 0px;
+			margin-top: -341px;
+			float: right;
+			width: 33%;
+		}
+
+		.Indeed {
+			/* margin-right: 0px; */
+			margin: -22px auto;
+			/* margin-left: 134px; */
+			/* margin-top: -3px; */
+			width: 33%;
+		}
+
+		.Email {
+			width: 32%;
+			display: block;
+			float: none;
+			margin-top: 175px;
+			margin: 2px auto;
+		}
+
+		.MessageMe {
+			font-size: 62px;
+			margin-right: 13px;
+			/* margin: 0 auto; */
+			float: right;
+			margin-top: -148px;
+			width: 34%;
+		}
+}

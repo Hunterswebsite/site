@@ -1,0 +1,585 @@
+html{
+	min-width: 300px;
+	/* max-width: 2200px; */
+	width: 100%;
+	height: 100%;
+	margin: 0 auto;
+	}
+
+header{
+	font-family: Arial;
+	font-size: 20px;
+	color: #f7faf8;
+	background-color: #141414;
+	padding: 6px 0;
+	margin-left: 0px;
+	letter-spacing: .2em;
+	font-weight: bold;
+	opacity: 68%;
+	}
+
+body{
+	background-color: #1e1e1f;
+	width: 100%;
+	text-align: center;
+	align-items: center;
+	height: 100%;
+	margin: 0 auto;
+	padding: 0;
+	}
+
+.main h2 {
+	font-family: Franklin Gothic;
+	color: #c3c3c3;
+	}
+
+.main h3 {
+
+font-family: Franklin Gothic;
+color: #c3c3c3;
+
+}
+
+
+
+.dark {
+	float: right;
+	margin-top: 21px;
+	margin-right: 40px;}
+
+.contact {
+	float: right;
+	margin-top: 19px;
+	margin-right: 35px;}
+
+.home {
+	float: right;
+	margin-right: 64px;
+	margin-top: 21px;
+	width: 0%;}
+
+.buttons p {
+	margin-top: 65px;
+	margin-bottom: 63px;
+	opacity: 85%;
+	color: #ffffff;
+	font-family: arial;
+	font-weight: bold;
+	font-size: 36px;
+	margin-left: 11px;
+	}
+
+.buttons .line {
+	margin-left: 33px;
+	margin-top: -68px;}
+
+.buttons ul {
+
+list-style: none;
+
+margin: 0 auto;
+
+padding: 0px 0 77px;
+}
+
+.buttons li a {
+	text-decoration: none;
+	font-weight: bold;
+	border-radius: 12px;
+	box-shadow: 0.5px 1px 9px -3px #262626;
+	border: solid;
+	background-color: #282828;
+	border-color: #181818;
+	color: #b9b9b9;
+	letter-spacing: 1px;
+	font-family: sans-serif;
+	}
+
+a {
+
+	 display: block;}
+
+.main p {
+
+	color: #c3c3c3;
+
+	font-family: Franklin Gothic;
+	line-height: 2;
+	}
+
+.dropbtn {
+	float: left;
+	margin-top: 3px;
+	margin-left: 13px;
+	color: #b5b5b5;
+	background-color: #1e1e1f;
+	font-size: 39px;
+	border: none;
+	}
+
+.dropdown-content {
+  display: none;
+  position: absolute;
+  margin-top: 0px;
+  border-radius: 20px;
+  font-family: Franklin Gothic;
+  background-color: #303030;
+  min-width: 150px;
+  box-shadow: 0px 8px 16px 0px rgba(0,0,0,0.2);
+  margin-left: 58px;
+  z-index: 1;
+  }
+
+.dropdown-content a {
+  color: #cbcbcb;
+  padding: 12px 16px;
+  text-decoration: none;
+  display: block;
+  }
+
+.dropdown-content a:hover {background-color: #4e4e4e; border-radius: 10px;}
+.dropdown:hover .dropdown-content {display: block;}
+.dropdown:hover .dropbtn {background-color:#2c2c2c; border-radius: 10px;}
+
+@media (min-width: 100px) {
+
+	header {
+		margin-left: -2px;
+		width: 100%;
+		font-size: 24px;
+		}
+
+	.Me img {
+
+width: 61%;
+
+border-radius: 20px;
+
+margin: -48px auto;
+
+float: none;
+
+}
+
+	main h1 {
+color: #c3c3c3;
+font-weight: 100;
+font-family: Franklin Gothic;
+font-size: 22px;
+margin: 84px auto;
+line-height: 2;
+width: 82%;
+}
+
+	main h2 {
+		font-weight: 100;
+		font-family: Franklin Gothic;
+		font-size: 18px;
+		width: 82%;
+		line-height: 2;
+		margin: 74px auto;
+	}
+
+main h3 {
+
+font-family: Franklin Gothic;
+
+font-weight: 100;
+
+font-size: 17px;
+
+margin: 63px auto;
+
+line-height: 2;
+
+width: 101%;
+}
+
+.MyResume {
+
+/* text-decoration: none; */
+
+/* font-weight: 700; */
+
+font-size: 19px;
+
+color: black;
+
+/* border: solid black; */
+
+display: block;
+
+/* width: 85%; */
+
+padding-top: -4px;
+
+font-family: Franklin Gothic;
+
+margin-top: -112px;
+}
+  main p {
+		/* float: right; */
+		font-size: 19px;
+		line-height: 2;
+		margin: 7px auto;
+		/* margin-right: 35px; */
+		width: 87%;
+		}
+
+
+	.dropdown-content a {
+		font-size: 16px;}
+}
+
+@media (min-width: 580px) {
+
+	header {
+		text-align: left;
+		font-size: 22px;
+		}
+
+	main h1 {
+
+/* font-weight: 100; */
+
+font-size: 25px;
+
+width: 86%;
+
+}
+
+	main h2 {
+
+font-size: 20px;
+
+width: 86%;
+	}
+
+	main h3 {
+
+font-family: Franklin Gothic;
+
+font-weight: 100;
+
+font-size: 20px;
+
+margin: 63px auto;
+
+line-height: 2;
+
+width: 94%;
+
+}
+
+.Me img {
+
+width: 50%;
+}
+
+  main p {
+		width: 88%;
+		/* float: right; */
+		/* margin-top: -33px; */
+		margin: 1px auto;
+		/* margin-right: 20px; */
+		font-size: 21px;
+		}
+
+
+ .dropdown-content a {
+	font-size: 19px;}
+}
+
+@media (min-width: 1200px) {
+
+	header {
+		font-size: 22px;
+		}
+
+  main p {
+		margin-top: 1px;
+		/* margin-right: 65px; */
+		width: 100%;
+		font-size: 20px;
+		/* float: right; */
+		}
+
+	main h1 {
+
+margin-top: 123px;
+
+}
+
+main h2 {
+
+width: 100%;
+
+float: right;
+
+margin-top: 144px;
+
+/* margin-right: 1px; */
+
+/* margin-left: 16px; */
+}
+
+main h3 {
+
+width: 100%;
+
+margin: 41px auto;
+
+/* float: right; */
+}
+
+
+	.Me img {
+
+width: 25%;
+
+float: left;
+
+margin-top: 27px;
+
+margin-left: 207px;
+
+}
+.MyResume {
+
+float: right;
+
+width: 11%;
+
+margin-right: -73px;
+
+margin-top: 0px;
+}
+ .dropdown-content a {
+		font-size: 19px;}
+}
+
+@media (min-width: 1520px) {
+
+	header {
+		font-size: 22px;
+		}
+
+  main p {
+		margin-top: 1px;
+		/* margin-right: 65px; */
+		/* letter-spacing: 1px; */
+		width: 100%;
+		font-size: 24px;
+		/* float: right; */
+		}
+
+	main h1 {
+
+margin-top: 123px;
+
+}
+
+main h2 {
+
+font-size: 24px;
+
+width: 100%;
+
+float: right;
+
+/* letter-spacing: 1px; */
+
+margin-top: 144px;
+
+/* margin-right: 1px; */
+
+/* margin-left: 16px; */
+}
+
+main h3 {
+
+width: 100%;
+
+margin: 41px auto;
+
+/* float: right; */
+
+font-size: 24px;
+}
+
+
+	.Me img {
+
+width: 25%;
+
+float: left;
+
+margin-top: 27px;
+
+margin-left: 207px;
+
+}
+.MyResume {
+
+float: right;
+
+width: 11%;
+
+margin-right: -73px;
+
+margin-top: 0px;
+}
+ .dropdown-content a {
+		font-size: 19px;}
+}
+@media (min-width: 1728px) {
+
+	header {
+		font-size: 22px;
+		}
+
+  main p {
+		margin-top: 1px;
+		/* margin-right: 65px; */
+		/* letter-spacing: 1px; */
+		width: 100%;
+		font-size: 24px;
+		/* float: right; */
+		}
+
+	main h1 {
+
+margin-top: 123px;
+
+}
+
+main h2 {
+
+font-size: 23px;
+
+width: 100%;
+
+float: right;
+
+/* letter-spacing: 1px; */
+
+margin-top: 144px;
+
+/* margin-right: 1px; */
+
+/* margin-left: 16px; */
+}
+
+main h3 {
+
+width: 91%;
+
+margin: 78px auto;
+
+/* float: right; */
+
+font-size: 22px;
+}
+
+
+	.Me img {
+
+width: 21%;
+
+float: left;
+
+margin-top: 27px;
+
+margin-left: 323px;
+}
+.MyResume {
+
+float: right;
+
+width: 11%;
+
+margin-right: -73px;
+
+margin-top: 0px;
+}
+ .dropdown-content a {
+		font-size: 19px;}
+}
+
+@media (min-width: 2235px) {
+
+	header {
+		font-size: 22px;
+		}
+
+  main p {
+		margin-top: 1px;
+		/* margin-right: 65px; */
+		/* letter-spacing: 1px; */
+		width: 100%;
+		font-size: 24px;
+		line-height: 3;
+		/* float: right; */
+		}
+
+	main h1 {
+
+font-size: 31px;
+
+margin-top: 123px;
+}
+
+main h2 {
+
+font-size: 24px;
+
+width: 100%;
+
+float: right;
+
+line-height: 3;
+
+/* letter-spacing: 1px; */
+
+margin-top: 170px;
+
+/* margin-right: 1px; */
+
+/* margin-left: 16px; */
+}
+
+main h3 {
+
+width: 91%;
+
+margin: 141px auto;
+
+/* float: right; */
+
+font-size: 26px;
+}
+
+
+	.Me img {
+
+width: 21%;
+
+float: left;
+
+margin-top: 27px;
+
+margin-left: 323px;
+}
+.MyResume {
+
+float: right;
+
+width: 11%;
+
+margin-right: -73px;
+
+margin-top: 0px;
+}
+ .dropdown-content a {
+		font-size: 19px;}
+}

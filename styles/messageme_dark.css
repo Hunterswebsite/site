@@ -1,0 +1,206 @@
+html{
+	min-width: 300px;
+	height: 100%;
+	margin: 0 auto;
+}
+
+header{
+	font-family: Arial;
+	width: 100%;
+	color: #f7faf8;
+	font-weight: bold;
+	font-size: 19px;
+	opacity: 58%;
+	background-color: #141414;
+	padding: 6px 0;
+	letter-spacing: .2em;
+	text-align: left;
+}
+
+main p {
+	font-size: 67px;
+    text-align: left;
+    margin-left: 23px;
+    margin-top: -15px;
+}
+
+body{
+	width: 100%;
+	text-align: center;
+	background-color: #1e1e1f;;
+	align-items: center;
+	height: 100%;
+	margin: 0 auto;
+	padding: 0;
+}
+
+h3 {
+	font-size: 24px;
+	font-weight: bold;
+	opacity: 87%;
+	margin: 0 auto;
+	color: #b9b9b9;
+	text-align: center;
+}
+
+form {
+margin-top: 198px;
+border: solid;
+border-radius: 20px;
+border-color: #000000;
+background-color: #242424;
+margin: 0 auto;
+float: none;
+box-shadow: rgba(0, 0, 0, 0.25) 0px 54px 55px, rgba(0, 0, 0, 0.12) 0px -12px 30px, rgba(0, 0, 0, 0.12) 0px 4px 6px, rgba(0, 0, 0, 0.17) 0px 12px 13px, rgba(0, 0, 0, 0.09) 0px -3px 5px;
+padding-top: 41px;
+padding-left:20px;
+padding-right: 20px;
+padding-bottom: 38px;
+width: 45%;
+}
+
+input {
+	width: 88%;
+	background-color: #ededed;
+	padding-left: 8px;
+	padding-right: 0px;
+	border-radius: 12px;
+}
+
+input[name=name] {
+	width: 86%;
+	margin-top: 5px;
+	padding-top: 9px;
+	color: white;
+	background-color: #2c2c2c;
+	text-align: center;
+	padding-bottom: 8px;
+	margin-bottom: 20px;
+}
+
+input[name=message] {
+	margin-bottom: 26px;
+	padding-top: 14px;
+	color: white;
+	background-color: #2e2e2e;
+	padding-bottom: 164px;
+	}
+
+button {
+	width: 15%;
+	border-color: black;
+	height: 6vh;
+	border-radius: 27px;
+	background-color: #444444;
+	color: white;
+}
+
+button:hover {
+	background-color:#2ad41e;
+}
+
+.dark {
+	float: right;
+	margin-top: 14px;
+	margin-right: 41px;
+}
+
+.contact {
+	float: right;
+	margin-top: 9px;
+	margin-right: 35px;
+}
+
+.home {
+	float: right;
+	margin-top: 12px;
+	margin-right: 20px;
+}
+
+.arrow {
+	float:left;
+	margin-top: 6px;
+	opacity: 65%;
+	margin-left: 16px;
+}
+
+
+@media (min-width: 300px) {
+
+	header {
+text-align: center;
+font-size: 24px;
+}
+
+	form {
+		width: 70%;
+		float: none;
+		margin-top: 123px;
+	}
+
+	button {
+		margin: 0 auto;
+		margin-top: 13px;
+		font-size: 22px;
+		height: 5vh;
+	}
+
+	h3 {
+		font-size: 34px;
+		margin-top: 91px;
+	}
+
+	input[name=name] {
+		font-size: 20px;
+	}
+
+	input[name=message] {
+		font-size: 20px;
+		padding-bottom: 387px;
+	}
+}
+
+@media (min-width: 1000px) {
+
+	header {
+		font-size: 22px;
+		text-align: left;
+	}
+
+	form {
+		margin-top: 80px;
+		width: 79%;
+		float: none;
+	}
+
+	input[name=message] {
+		padding-bottom: 202px;
+		font-size: 20px;
+	}
+}
+
+
+@media (min-width: 1500px) {
+	form {
+		margin-top: 89px;
+		width: 85%;
+		padding-right: 0px;
+		padding-left: 0px;
+		float: none;
+	}
+
+  button {
+
+height: 4vh;
+}
+}
+
+@media (min-width: 1919px) {
+	form {
+		margin-top: 95px;
+		width: 73%;
+		padding-right: 0px;
+		padding-left: 0px;
+		float: none;
+	}
+}
