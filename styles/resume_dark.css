@@ -234,7 +234,7 @@ section h2{
 			margin-top: 1px;
 			font-size: 21px;
 			width: 44%;
-			margin-left: 100px;
+			margin-left: 57px;
 			}
 }
 
@@ -308,6 +308,7 @@ section h2{
 		.dropdown-content {
 			margin-top: 1px;
 			font-size: 21px;
+			margin-right: 100px;
 			width: 44%;
 			}
 }
