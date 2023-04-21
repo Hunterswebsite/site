@@ -195,6 +195,7 @@ p.contacting {
 		display: block;
 		width: 83%;
 		float: none;
+		margin-left: 27px;
 		}
 
 	.MessageMe {
@@ -213,8 +214,10 @@ p.contacting {
 		}
 
 	.dropbtn {
-margin-top: 7px;
-margin-left: 12px;
+
+margin-top: 7px;
+
+margin-left: 12px;
 }
 }
 
@@ -441,8 +444,10 @@ p.contacting {
 		}
 
 		.ZipRecruiter {
-width: 55%;
-margin-left: -3px;
+
+width: 55%;
+
+margin-left: -3px;
 		}
 
 
