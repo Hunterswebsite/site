@@ -233,8 +233,84 @@ section h2{
 			margin-top: 1px;
 			font-size: 21px;
 			width: 44%;
+			margin-left: 57px;
 			}
 }
+
+@media (min-width: 350px) {
+
+		header {
+			font-size: 29px;
+			width: 100%;
+			text-align: center;
+			}
+
+		.top {
+			width: 80%;
+			float: none;
+			padding-top: 20px;
+			padding-left: 20px;
+			padding-bottom: 22px;
+			margin: 133px auto;
+			padding-right: 20px;
+			text-align: center;
+			font-family: franklin gothic;
+			letter-spacing: 2px;
+			line-height: 30px;
+			font-size: 12px;
+			}
+
+		.mid {
+			width: 80%;
+			float: none;
+			padding-top: 20px;
+			padding-left: 20px;
+			margin: -52px auto;
+			font-family: Franklin Gothic;
+			padding-right: 20px;
+			text-align: center;
+			letter-spacing: 2px;
+			line-height: 30px;
+			font-size: 16px;
+			}
+
+		.low  {
+			width: 80%;
+			float: none;
+			padding-top: 20px;
+			padding-left: 20px;
+			padding-right: 20px;
+			padding-bottom: 28px;
+			margin: 125px auto;
+			font-family: Franklin Gothic;
+			text-align: center;
+			letter-spacing: 2px;
+			line-height: 30px;
+			font-size: 16px;
+			}
+
+		.evenlower {
+			width: 80%;
+			float: none;
+			padding-top: 20px;
+			padding-left: 20px;
+			margin: -49px auto;
+			padding-right: 20px;
+			font-family: Franklin Gothic;
+			padding-bottom: 9px;
+			text-align: center;
+			/* letter-spacing: 2px; */
+			line-height: 30px;
+			font-size: 16px;
+			}
+
+		.dropdown-content {
+			margin-top: 1px;
+			font-size: 21px;
+			width: 44%;
+			}
+}
+
 
 @media (min-width: 700px) {
 
