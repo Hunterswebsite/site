@@ -179,14 +179,14 @@ p.contacting {
 	.ZipRecruiter {
 		float: none;
 		display: block;
-		margin: 62px auto;
+		margin: 0px auto;
 		margin-bottom: 30px;
 		}
 
 	.Email {
 		width: 84%;
 		display: block;
-		margin: 4px auto;
+		margin: 33px auto;
 		margin-bottom: 10px;
 		}
 
