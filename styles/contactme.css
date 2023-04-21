@@ -184,6 +184,7 @@ p.contacting {
 			width: 81%;
 			display: block;
 			float: none;
+			margin-left: 27px;
 			}
 
 		.ZipRecruiter {
@@ -221,8 +222,11 @@ p.contacting {
 			}
 
 		.dropbtn {
-margin-top: 7px;
-margin-left: 12px;}}
+
+margin-top: 7px;
+
+margin-left: 12px;
+}}
 
 @media (min-width: 750px) {
 
