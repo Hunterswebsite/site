@@ -1,0 +1,321 @@
+html{
+	width: 100%;
+	height: 100%;
+	margin: 0 auto;
+	min-width: 300px;
+}
+
+header{
+	font-family: Arial;
+	text-align: center;
+	font-size: 14px;
+	padding: 6px 0;
+	letter-spacing: .2em;
+	font-weight: 300;
+}
+
+img {
+	width: 100%;
+	float: right;
+	margin-right:40px;
+	margin-top:72px;
+}
+
+body{
+	width: 100%;
+	text-align: center;
+	align-items: center;
+	height: 100%;
+	margin: 0 auto;
+	padding: 0;
+}
+
+@import url(//fonts.googleapis.com/css?family=Lato:300:400);
+
+	h1 {
+	  font-family: 'Lato', sans-serif;
+	  font-weight:300;
+	  letter-spacing: 2px;
+	  font-size:48px;
+	}
+
+	p {
+	  font-family: 'Lato', sans-serif;
+	  letter-spacing: 1px;
+	  font-size:14px;
+	  color: #333333;
+	}
+
+	.header {
+		width:100%;
+	  position:relative;
+	  text-align:center;
+	  background: linear-gradient(60deg, rgba(84,58,183,1) 0%, rgba(0,172,193,1) 100%);
+	  color:white;
+	}
+
+	.inner-header {
+	  height: 79vh;
+	  padding: 0;
+	}
+
+	.flex {
+	  display: flex;
+	  width: 100%;
+	  margin: 0 auto;
+	  justify-content: center;
+	}
+
+	.waves {
+	  position:relative;
+	  width: 100%;
+	  height:13vh;
+	  margin-bottom:-7px;
+	  min-height:90px;
+	  max-height:250px;
+	}
+
+	.parallax > use {
+	  animation: move-forever 35s cubic-bezier(.55,.5,.45,.5) infinite;
+	}
+
+	.parallax > use:nth-child(1) {
+		width:100%;
+	  animation-delay: -2s;
+	  animation-duration: 15s;
+	}
+
+	.parallax > use:nth-child(2) {
+		width:100%;
+		animation-delay: -3s;
+	  animation-duration: 13s;
+	}
+
+	.parallax > use:nth-child(3) {
+		width:90%;
+		animation-delay: -4s;
+	  animation-duration: 14s;
+	}
+
+	.parallax > use:nth-child(4) {
+	  animation-delay: -5s;
+	  animation-duration: 20s;
+	}
+
+	@keyframes move-forever {
+	  0% {
+	   transform: translate3d(-90px,0,0);
+	  }
+	  100% {
+	    transform: translate3d(85px,0,0);
+	  }
+	}
+
+
+section {
+	width: 100%;
+	margin-top:425px;
+}
+
+figure{
+	float:left;
+	font-family: Arial;
+	margin-left:120px;
+	margin-top:-4px;
+	width: 100%;
+}
+
+figure h1{
+	margin-left:-399px;
+	margin-top: 88px;
+}
+
+main h2{
+	font-family: Verdana;
+	text-align: left;
+	width: 100%;
+	padding-bottom: 47px;
+}
+
+figure a {
+	display: contents;
+	text-decoration: none;
+	font-weight: bold;
+	color: #000000;
+	font-size: 40px;
+}
+
+main p {
+	font-family: Times New Roman;
+	font-size: 14px;
+	text-align: center;
+	margin-top: -102px;
+	margin-right:0px;
+}
+
+@media (min-width: 300px) {
+
+	main h2 {
+		width: 100%;
+		margin: 0 auto;
+		margin-top: 13px;
+		text-align: center;
+		line-height: 2;
+		letter-spacing: 1px;
+		font-size: 20px;
+	}
+
+	section {
+		width:90%;
+		margin: 0 auto;
+	}
+
+	figure {
+		float: none;
+		width: 100%;
+		text-align: center;
+		margin: 0 auto;
+		margin-top: -55px;
+		/* display: block; */
+	}
+
+	figure a {
+	 font-size: 21px;
+	 display: block;
+	 margin-left: 60px;
+	 margin-top: 59px;
+	}
+
+	header {
+		width:20%;
+		margin: 0 auto;
+	}
+}
+
+@media (min-width: 400px) {
+
+	main h2 {
+		width: 100%;
+		margin: 0 auto;
+		margin-top: 13px;
+		text-align: center;
+		line-height: 2;
+		letter-spacing: 1px;
+		font-size: 20px;
+	}
+
+	section {
+		width:90%;
+		margin: 0 auto;
+	}
+
+	figure {
+		float: none;
+		width: 100%;
+		text-align: center;
+		margin: 0 auto;
+		margin-top: -81px;
+		/* display: block; */
+	}
+
+	figure a {
+	 font-size: 29px;
+	 display: block;
+	 margin-left: 82px;
+	 margin-top: 100px;
+	}
+
+	header {
+		width:20%;
+		margin: 0 auto;
+	}
+}
+
+
+@media (min-width: 650px) {
+
+	main h2 {
+		width: 100%;
+		margin: 0px auto;
+		margin-top: 78px;
+		text-align: center;
+		letter-spacing: 1px;
+		line-height: 2;
+		font-size: 21px;
+	}
+
+	figure {
+		margin-top: -77px;
+		/* margin-left: 50px; */
+		width: 100%;
+	}
+
+	figure a {
+		/* display: contents; */
+		/* padding-left: 27px; */
+		margin-left: 76px;
+		font-size: 32px;
+	}
+}
+
+@media (min-width: 1200px) {
+
+	main h2 {
+		width: 100%;
+		margin: 0px auto;
+		margin-top: 78px;
+		text-align: center;
+		letter-spacing: 1px;
+		line-height: 2;
+		font-size: 21px;
+	}
+
+	figure {
+		/* float: left; */
+		/* display: contents; */
+		margin-left: 54px;
+		margin-top: 96px;
+		width: 100%;
+	}
+
+	figure a {
+		display: contents;
+		/* padding-left: 27px; */
+		font-size: 38px;
+	}
+
+	a{
+
+	}
+}
+
+@media (min-width: 1920px) {
+
+	main h2 {
+		width: 76%;
+		float:left;
+		margin: 0 auto;
+		margin-top: 50px;
+		text-align: left;
+		letter-spacing: 1px;
+		line-height: 85px;
+		font-size: 35px;
+	}
+
+	section {
+		width:90%;
+		margin: 0 auto;
+	}
+
+	figure {
+		float: right;
+		margin-right: 70px;
+		margin-top: 120px;
+		width: 69%;
+	}
+
+	figure a {
+			color: #181818;
+			font-size: 44px;
+	}
+}
