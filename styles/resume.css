@@ -161,6 +161,7 @@ section h2{
 .dropdown:hover .dropdown-content {display: block;}
 .dropdown:hover .dropbtn {background-color: #c7c7c7; border-radius: 10px;}
 
+
 @media (min-width: 300px) {
 
 		header {
@@ -181,7 +182,7 @@ section h2{
 			font-family: franklin gothic;
 			letter-spacing: 2px;
 			line-height: 30px;
-			font-size: 16px;
+			font-size: 12px;
 			}
 
 		.mid {
@@ -232,10 +233,11 @@ section h2{
 			margin-top: 1px;
 			font-size: 21px;
 			width: 44%;
+			margin-left: 57px;
 			}
 }
 
-@media (min-width: 400px) {
+@media (min-width: 350px) {
 
 		header {
 			font-size: 29px;
@@ -255,7 +257,7 @@ section h2{
 			font-family: franklin gothic;
 			letter-spacing: 2px;
 			line-height: 30px;
-			font-size: 16px;
+			font-size: 12px;
 			}
 
 		.mid {
