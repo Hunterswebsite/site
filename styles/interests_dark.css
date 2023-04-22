@@ -125,26 +125,42 @@ body{
 		 margin-top: 2px;}
 
 	h3 {
-color: #cdcdcd;
-margin: 80px auto;
-font-size: 26px;
-float: none;
-}
+
+color: #cdcdcd;
+
+margin: 80px auto;
+
+font-size: 26px;
+
+float: none;
+
+}
 
 	h4 {
-margin-top: -50px;
-text-align: center;
-color: #c9c9c9;
-margin-bottom: 80px;
-font-size: 21px;
-}
+
+margin-top: -50px;
+
+text-align: center;
+
+color: #c9c9c9;
+
+margin-bottom: 80px;
+
+font-size: 21px;
+
+}
 
 	h5 {
-font-size: 21px;
-margin-bottom: 112px;
-color: #cecece;
-margin-top: 275px;
-}
+
+font-size: 21px;
+
+margin-bottom: 112px;
+
+color: #cecece;
+
+margin-top: 275px;
+
+}
 
 	h6 {
 		color: #c4c4c4;
@@ -198,42 +214,61 @@ body{
 		 border-radius: 13px;
 		 float: none;
 		 box-shadow: 1px 3px 27px -7px;
-		 margin: 175px auto;
+		 margin: 162px auto;
 		 }
 
 	.Music {
-width: 87%;
-margin: 0 auto;
-margin-top: -550px;
-font-size: 17px;
-}
+
+width: 87%;
+
+margin: 0 auto;
+
+margin-top: -550px;
+
+font-size: 17px;
+
+}
 
 	.FnF {
-width: 87%;
-margin: 0 auto;
-margin-top: -521px;
-font-size: 17px;
-}
+
+width: 87%;
+
+margin: 0 auto;
+
+margin-top: -521px;
+
+font-size: 17px;
+
+}
 
 	.Games {
-font-size: 17px;
-width: 87%;
-margin: 0 auto;
-float: none;
-margin-top: -491px;
-}
+
+font-size: 17px;
+
+width: 87%;
+
+margin: 0 auto;
+
+float: none;
+
+margin-top: -491px;
+
+}
 }
 
 
 @media (min-width: 425px) {
 
 	h5 {
-margin-top: 359px;
+
+margin-top: 359px;
 }
 
 	h6 {
-margin-top: 331px;
-margin-bottom: 53px;
+
+margin-top: 331px;
+
+margin-bottom: 53px;
 }
 
 	.Music {
@@ -245,13 +280,17 @@ body{
 }
 
 	.FnF {
-margin-top: -592px;
-font-size: 19px;
+
+margin-top: -592px;
+
+font-size: 19px;
 }
 
 	.Games {
-margin-top: -560px;
-font-size: 19px;
+
+margin-top: -560px;
+
+font-size: 19px;
 }
 
 	.music img{
@@ -301,18 +340,24 @@ body{
 }
 
 	.Music {
-margin-top: -636px;
-font-size: 21px;
+
+margin-top: -636px;
+
+font-size: 21px;
 }
 
 	.FnF {
-margin-top: -614px;
-font-size: 21px;
+
+margin-top: -614px;
+
+font-size: 21px;
 }
 
 	.Games {
-margin-top: -573px;
-font-size: 21px;
+
+margin-top: -573px;
+
+font-size: 21px;
 }
 
 	.music img{
@@ -366,19 +411,26 @@ font-size: 30px;
 }
 
 	h6 {
-margin-top: 526px;
-margin-bottom: 48px;
-font-size: 30px;
+
+margin-top: 526px;
+
+margin-bottom: 48px;
+
+font-size: 30px;
 }
 
 	.Music {
-margin-top: -700px;
-font-size: 23px;
+
+margin-top: -700px;
+
+font-size: 23px;
 }
 
 	.FnF {
-margin-top: -681px;
-font-size: 23px;
+
+margin-top: -681px;
+
+font-size: 23px;
 }
 
 	.Games {
@@ -517,24 +569,33 @@ font-size: 39px;
 }
 
 	h5 {
-margin-top: 645px;
-font-size: 30px;
+
+margin-top: 645px;
+
+font-size: 30px;
 }
 
 	h6 {
-margin-top: 608px;
-margin-bottom: 48px;
-font-size: 30px;
+
+margin-top: 608px;
+
+margin-bottom: 48px;
+
+font-size: 30px;
 }
 
 	.Music {
-margin-top: -810px;
-font-size: 25px;
+
+margin-top: -810px;
+
+font-size: 25px;
 }
 
 	.FnF {
-margin-top: -792px;
-font-size: 25px;
+
+margin-top: -792px;
+
+font-size: 25px;
 }
 
 	.Games {
@@ -599,10 +660,14 @@ margin-top: 159px;
 	}
 
 	h6 {
-margin-top: 149px;
-margin-bottom: 138px;
-font-size: 30px;
-}
+
+margin-top: 149px;
+
+margin-bottom: 138px;
+
+font-size: 30px;
+
+}
 
 	.Music {
 
@@ -618,18 +683,28 @@ width: 72%;
 	}
 
 	.FnF {
-/* margin-top: 374px; */
-margin: 374px auto;
-margin-bottom: 0px;
-font-size: 25px;
-width: 72%;
-}
+
+/* margin-top: 374px; */
+
+margin: 374px auto;
+
+margin-bottom: 0px;
+
+font-size: 25px;
+
+width: 72%;
+
+}
 
 	.Games {
-margin: 370px auto;
-width: 72%;
-font-size: 25px;
-}
+
+margin: 370px auto;
+
+width: 72%;
+
+font-size: 25px;
+
+}
 
 	.music img{
 		width: 806px;
@@ -639,12 +714,18 @@ width: 72%;
 	}
 
 	.musictwo img {
-width: 806px;
-float: right;
-margin-bottom: 0px;
-width: 324px;
-margin-top: -55px;
-margin-right: 258px;
+
+width: 806px;
+
+float: right;
+
+margin-bottom: 0px;
+
+width: 324px;
+
+margin-top: -55px;
+
+margin-right: 258px;
 }
 
 	.guys img {
@@ -662,12 +743,18 @@ margin-top: -35px;
 }
 
 	.guystwo img {
-width: 806px;
-float: right;
-margin-bottom: 0px;
-margin-top: -33px;
-width: 324px;
-margin-right: 258px;
+
+width: 806px;
+
+float: right;
+
+margin-bottom: 0px;
+
+margin-top: -33px;
+
+width: 324px;
+
+margin-right: 258px;
 }
 
 	.games img {
@@ -748,18 +835,27 @@ width: 50%;
 }
 
 	.FnF {
-margin-top: 68px;
-margin-bottom: 0px;
-margin: 0 auto;
-font-size: 25px;
-width: 50%;
+
+margin-top: 68px;
+
+margin-bottom: 0px;
+
+margin: 0 auto;
+
+font-size: 25px;
+
+width: 50%;
 }
 
 	.Games {
-margin-top: 74px;
-margin: 0 auto;
-width: 50%;
-font-size: 25px;
+
+margin-top: 74px;
+
+margin: 0 auto;
+
+width: 50%;
+
+font-size: 25px;
 }
 
 	.music img{
