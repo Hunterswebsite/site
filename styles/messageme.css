@@ -45,16 +45,26 @@ h3 {
 }
 
 form {
-	border: solid;
-	border-radius: 20px;
-	border-color: #929292;
-	background-color: #c7c7c7;
-	margin: 0 auto;
-	box-shadow: rgba(0, 0, 0, 0.25) 0px 54px 55px, rgba(0, 0, 0, 0.12) 0px -12px 30px, rgba(0, 0, 0, 0.12) 0px 4px 6px, rgba(0, 0, 0, 0.17) 0px 12px 13px, rgba(0, 0, 0, 0.09) 0px -3px 5px;
-	padding-top: 41px;
-	padding-left:20px;
-	padding-right: 20px;
-	padding-bottom: 38px;
+
+	border: solid;
+
+	/* border-radius: 20px; */
+
+	/* border-color: #929292; */
+
+	background-color: #c7c7c7;
+
+	margin: 0 auto;
+
+	box-shadow: rgba(0, 0, 0, 0.25) 0px 54px 55px, rgba(0, 0, 0, 0.12) 0px -12px 30px, rgba(0, 0, 0, 0.12) 0px 4px 6px, rgba(0, 0, 0, 0.17) 0px 12px 13px, rgba(0, 0, 0, 0.09) 0px -3px 5px;
+
+	padding-top: 41px;
+
+	padding-left:20px;
+
+	padding-right: 20px;
+
+	padding-bottom: 33px;
 }
 
 input {
@@ -96,26 +106,26 @@ button:hover {
 
 .dark {
 	float: right;
-	margin-top: 14px;
-	margin-right: 41px;
+	margin-top: 10px;
+	margin-right: 33px;
 	}
 
 .contact {
 	float: right;
-	margin-top: 9px;
-	margin-right: 35px;
+	margin-top: 8px;
+	margin-right: 26px;
 	}
 
 .home {
 	float: right;
-	margin-top: 12px;
-	margin-right: 20px;
+	margin-top: 10px;
+	margin-right: 17px;
 	}
 
 .arrow {
 	float:left;
-	margin-top: 6px;
 	opacity: 81%;
+	margin-top: 4px;
 	margin-left: 16px;
 	}
 
@@ -145,39 +155,51 @@ button:hover {
 .dropdown:hover .dropdown-content {display: block;}
 .dropdown:hover .dropbtn {background-color: #c7c7c7; border-radius: 10px;}
 
-
 @media (min-width: 300px) {
 
 	header {
-		font-size: 24px;
-		text-align: center;
-		margin: 0 auto;
-	}
+
+text-align: center;
+
+font-size: 24px;
+
+}
 
 	form {
-		width: 69%;
+		width: 85%;
 		float: none;
-		margin-top: 123px;
+		margin-top: 60px;
 	}
 
 	button {
+		margin: 0 auto;
+		width: 65%;
 		margin-top: 13px;
-		font-size: 22px;
+		font-size: 20px;
 		height: 5vh;
 	}
 
 	h3 {
+		width: 80%;
 		font-size: 34px;
 		margin-top: 91px;
 	}
 
 	input[name=name] {
-		font-size: 20px;
+		width: 95%;
+		font-size: 10px;
 	}
 
 	input[name=message] {
-		padding-bottom: 387px;
-		font-size: 20px;
+		font-size: 16px;
+		padding-bottom: 381px;
+	}
+}
+
+@media (min-width: 380px) {
+	input[name=name] {
+		width: 95%;
+		font-size: 13px;
 	}
 }
 
@@ -186,20 +208,34 @@ button:hover {
 	header {
 		font-size: 22px;
 		text-align: left;
-		margin: 0 auto;
 	}
 
 	form {
+		border-radius: 21px;
 		margin-top: 80px;
 		width: 79%;
 		float: none;
 	}
 
+	button {
+		margin: 0 auto;
+		width: 23%;
+		margin-top: 13px;
+		font-size: 22px;
+		height: 5vh;
+	}
+
+	input[name=name] {
+		width: 57%;
+		font-size: 16px;
+	}
+
 	input[name=message] {
 		padding-bottom: 202px;
-		font-size: 20px;
+		font-size: 18px;
 	}
 }
+
 
 @media (min-width: 1500px) {
 	form {
@@ -211,13 +247,17 @@ button:hover {
 	}
 
   button {
-height: 4vh;}
+
+height: 6vh;
+
+width: 12%;
+}
 }
 
 @media (min-width: 1919px) {
 	form {
 		margin-top: 95px;
-		width: 73%;
+		width: 58%;
 		padding-right: 0px;
 		padding-left: 0px;
 		float: none;
