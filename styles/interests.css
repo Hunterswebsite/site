@@ -17,48 +17,71 @@ header{
 
 
 h3 {
-  font-size: 39px;
-  margin-top: 59px;
-  float: left;
-margin-left: -109px;
+
+  font-size: 39px;
+
+  margin-top: 59px;
+
+  float: left;
+
+margin-left: -109px;
 	}
 
 h4 {
-  font-size: 31px;
-  margin: 154px auto;
+
+  font-size: 31px;
+
+  margin: 154px auto;
 }
 
 h5 {
-  font-size: 31px;
-  margin: 231px auto;
+
+  font-size: 31px;
+
+  margin: 231px auto;
 }
 
 h6 {
-  font-size: 31px;
-  margin: 329px auto;
+
+  font-size: 31px;
+
+  margin: 329px auto;
 }
 
 
 .Music {
-  font-family: Franklin Gothic;
-  font-size: 17px;
-  width: 50%;
-  margin: -534px auto;
-  margin-bottom: 10px;
+
+  font-family: Franklin Gothic;
+
+  font-size: 17px;
+
+  width: 50%;
+
+  margin: -534px auto;
+
+  margin-bottom: 10px;
 }
 
 .FnF {
-  font-size: 23px;
-  font-family: Franklin Gothic;
-  width: 54%;
-  margin: -149px auto;
+
+  font-size: 23px;
+
+  font-family: Franklin Gothic;
+
+  width: 54%;
+
+  margin: -149px auto;
 }
 
 .Games {
-  font-size: 25px;
-	 font-family: Franklin Gothic;
-	 width: 53%;
-	 margin: -247px auto;
+
+  font-size: 25px;
+
+	 font-family: Franklin Gothic;
+
+	 width: 53%;
+
+	 margin: -247px auto;
 }
 
 body{
@@ -206,21 +229,32 @@ body{
 		 margin-top: 2px;}
 
 	h3 {
-     margin: 80px auto;
-     font-size: 26px;
-     float: none;}
+
+     margin: 80px auto;
+
+     font-size: 26px;
+
+     float: none;}
 
 	h4 {
-     margin-top: -50px;
-     margin-bottom: 80px;
-     font-size: 21px;
-    }
+
+     margin-top: -50px;
+
+     margin-bottom: 80px;
+
+     font-size: 21px;
+
+    }
 
 	h5 {
-    font-size: 21px;
-    margin-bottom: 112px;
-    margin-top: 275px;
-    }
+
+    font-size: 21px;
+
+    margin-bottom: 112px;
+
+    margin-top: 275px;
+
+    }
 
 	h6 {
 		font-size: 23px;
@@ -272,79 +306,116 @@ body{
 		 border-radius: 13px;
 		 float: none;
 		 box-shadow: 1px 3px 21px -7px;
-		 margin: 175px auto;
+		 margin: 162px auto;
 		 }
 
 	.Music {
-    width: 87%;
-    margin-top: -552px;
-    font-size: 17px;
-   }
+
+    width: 87%;
+
+    margin-top: -552px;
+
+    font-size: 17px;
+
+   }
 
 	.FnF {
-   width: 87%;
-   margin-top: -584px;
-   font-size: 17px;
-  }
+
+   width: 87%;
+
+   margin-top: -584px;
+
+   font-size: 17px;
+
+  }
 
 	.Games {
-   font-size: 17px;
-   width: 87%;
-   float: none;
-   margin-top: -474px;
-  }
+
+   font-size: 17px;
+
+   width: 87%;
+
+   float: none;
+
+   margin-top: -474px;
+
+  }
 }
 
 
 @media (min-width: 425px) {
 
 	h5 {
-    margin-top: 394px;
-}
+
+    margin-top: 394px;
+
+}
 
 	h6 {
-    margin-top: 523px;
-    margin-bottom: 53px;
-}
+
+    margin-top: 523px;
+
+    margin-bottom: 53px;
+
+}
 
 	.Music {
-    margin-top: -609px;
-    font-size: 19px;
-}
+
+    margin-top: -609px;
+
+    font-size: 19px;
+
+}
 
 	.FnF {
-    margin-top: -645px;
-    font-size: 19px;
-}
+
+    margin-top: -645px;
+
+    font-size: 19px;
+
+}
 
 	.Games {
-    margin-top: -524px;
-    font-size: 19px;
-}
+
+    margin-top: -524px;
+
+    font-size: 19px;
+
+}
 
 	.music img{
 	  width: 326px;
 }
 
 	.musictwo img {
-    width: 326px;
-}
+
+    width: 326px;
+
+}
 
 	.guys img {
-    width: 327px;
-}
+
+    width: 327px;
+
+}
 
 	.guystwo img {
-    width: 326px;
-}
+
+    width: 326px;
+
+}
 
 	.games img {
-    width: 326px;
-}
+
+    width: 326px;
+
+}
 
 	.gamestwo img {
-    width: 326px;
-}
+
+    width: 326px;
+
+}
 }
 
 @media (min-width: 652px) {
@@ -359,18 +430,23 @@ body{
 }
 
 	.Music {
-   margin-top: -646px;
-   font-size: 21px;
+
+   margin-top: -646px;
+
+   font-size: 21px;
 }
 
 	.FnF {
-   margin-top: -677px;
+
+   margin-top: -677px;
    font-size: 21px;
 }
 
 	.Games {
-   margin-top: -561px;
-   font-size: 21px;
+
+   margin-top: -561px;
+
+   font-size: 21px;
 }
 
 	.music img{
@@ -378,60 +454,79 @@ body{
 }
 
 	.musictwo img {
-   width: 365px;
+
+   width: 365px;
 }
 
 	.guys img {
-   width: 365px;
+
+   width: 365px;
 }
 
 	.guystwo img {
-   width: 365px;
+
+   width: 365px;
 }
 
 	.games img {
-   width: 365px;
+
+   width: 365px;
 }
 
 	.gamestwo img {
-width: 365px;
+
+width: 365px;
 }
 }
 
 @media (min-width: 733px) {
 
 	h3 {
-font-size: 34px;
-}
+
+font-size: 34px;
+
+}
 
 	h4 {
-font-size: 30px;
+
+font-size: 30px;
 	}
 
 	h5 {
-margin-top: 467px;
-font-size: 30px;
+
+margin-top: 467px;
+
+font-size: 30px;
 }
 
 	h6 {
-margin-top: 613px;
-margin-bottom: 48px;
-font-size: 30px;
+
+margin-top: 613px;
+
+margin-bottom: 48px;
+
+font-size: 30px;
 }
 
 	.Music {
-margin-top: -710px;
-font-size: 23px;
+
+margin-top: -710px;
+
+font-size: 23px;
 }
 
 	.FnF {
-margin-top: -751px;
-font-size: 23px;
+
+margin-top: -751px;
+
+font-size: 23px;
 }
 
 	.Games {
-margin-top: -633px;
-font-size: 23px;
+
+margin-top: -633px;
+
+font-size: 23px;
 }
 
 	.music img{
@@ -439,23 +534,28 @@ body{
 	}
 
 	.musictwo img {
-width: 465px;
+
+width: 465px;
 }
 
 	.guys img {
-width: 465px;
+
+width: 465px;
 }
 
 	.guystwo img {
-width: 465px;
+
+width: 465px;
 }
 
 	.games img {
-width: 465px;
+
+width: 465px;
 }
 
 	.gamestwo img {
-width: 465px;
+
+width: 465px;
 }
 }
 
@@ -478,29 +578,40 @@ font-size: 30px;
 	}
 
 	h5 {
-margin-top: 548px;
-font-size: 30px;
+
+margin-top: 548px;
+
+font-size: 30px;
 }
 
 	h6 {
-margin-top: 679px;
-margin-bottom: 48px;
-font-size: 30px;
+
+margin-top: 679px;
+
+margin-bottom: 48px;
+
+font-size: 30px;
 }
 
 	.Music {
-margin-top: -789px;
-font-size: 23px;
+
+margin-top: -789px;
+
+font-size: 23px;
 }
 
 	.FnF {
-margin-top: -817px;
-font-size: 23px;
+
+margin-top: -817px;
+
+font-size: 23px;
 }
 
 	.Games {
-margin-top: -690px;
-font-size: 23px;
+
+margin-top: -690px;
+
+font-size: 23px;
 }
 
 	.music img{
@@ -508,85 +619,119 @@ font-size: 30px;
 	}
 
 	.musictwo img {
-width: 565px;
+
+width: 565px;
 }
 
 	.guys img {
-width: 565px;
+
+width: 565px;
 }
 
 	.guystwo img {
-width: 565px;
+
+width: 565px;
 }
 
 	.games img {
-width: 565px;
+
+width: 565px;
 }
 
 	.gamestwo img {
-width: 565px;
+
+width: 565px;
 }
 }
 
 @media (min-width: 930px) {
 
 	h3 {
-font-size: 39px;
+
+font-size: 39px;
 	}
 
 	h4 {
-	font-size: 35px;
-}
+
+	font-size: 35px;
+
+}
 
 	h5 {
-margin-top: 595px;
-font-size: 30px;
-}
+
+margin-top: 595px;
+
+font-size: 30px;
+
+}
 
 	h6 {
-margin-top: 749px;
-margin-bottom: 48px;
-font-size: 30px;
-}
+
+margin-top: 749px;
+
+margin-bottom: 48px;
+
+font-size: 30px;
+
+}
 
 	.Music {
-margin-top: -823px;
-font-size: 25px;
-}
+
+margin-top: -823px;
+
+font-size: 25px;
+
+}
 
 	.FnF {
-margin-top: -857px;
-font-size: 25px;
-}
+
+margin-top: -857px;
+
+font-size: 25px;
+
+}
 
 	.Games {
-margin-top: -721px;
-font-size: 25px;
-}
+
+margin-top: -721px;
+
+font-size: 25px;
+
+}
 
 	.music img{
 		width: 608px;
 	}
 
 	.musictwo img {
-width: 608px;
-}
+
+width: 608px;
+
+}
 
 	.guys img {
-width: 608px;
-}
+
+width: 608px;
+
+}
 
 	.guystwo img {
-width: 608px;
-}
+
+width: 608px;
+
+}
 
 	.games img {
-width: 608px;
-}
+
+width: 608px;
+
+}
 
 	.gamestwo img {
-width: 608px;
-}
+
+width: 608px;
+
+}
 }
 
 @media (min-width: 1180px) {
@@ -595,41 +740,61 @@ font-size: 30px;
 		font-size: 39px;}
 
 	h4 {
-font-size: 35px;
-margin-top: -49px;
+
+font-size: 35px;
+
+margin-top: -49px;
 	}
 
 	h5 {
-margin-top: 159px;
+
+margin-top: 159px;
 		font-size: 30px;
 	}
 
 	h6 {
-margin-top: 149px;
-margin-bottom: 122px;
-font-size: 30px;
-}
+
+margin-top: 149px;
+
+margin-bottom: 122px;
+
+font-size: 30px;
+
+}
 
 	.Music {
-margin-top: 232px;
-margin: 231px auto;
-margin-bottom: 0px;
-font-size: 25px;
-width: 72%;
+
+margin-top: 232px;
+
+margin: 231px auto;
+
+margin-bottom: 0px;
+
+font-size: 25px;
+
+width: 72%;
 	}
 
 	.FnF {
-margin-top: 374px;
-margin-bottom: 0px;
-font-size: 25px;
-width: 72%;
+
+margin-top: 374px;
+
+margin-bottom: 0px;
+
+font-size: 25px;
+
+width: 72%;
 	}
 
 	.Games {
-margin-top: 339px;
-width: 72%;
-font-size: 25px;
-}
+
+margin-top: 339px;
+
+width: 72%;
+
+font-size: 25px;
+
+}
 
 	.music img{
 		width: 806px;
@@ -639,92 +804,146 @@ font-size: 30px;
 	}
 
 	.musictwo img {
-width: 806px;
-float: right;
-margin-bottom: 0px;
-width: 324px;
-margin-top: -64px;
-margin-right: 258px;
-}
+
+width: 806px;
+
+float: right;
+
+margin-bottom: 0px;
+
+width: 324px;
+
+margin-top: -64px;
+
+margin-right: 258px;
+
+}
 
 	.guys img {
-width: 806px;
-float: left;
-width: 324px;
-margin-left: 258px;
-margin-top: -35px;
-}
+
+width: 806px;
+
+float: left;
+
+width: 324px;
+
+margin-left: 258px;
+
+margin-top: -35px;
+
+}
 
 	.guystwo img {
-width: 806px;
-float: right;
-margin-bottom: 0px;
-margin-top: -34px;
-width: 324px;
-margin-right: 258px;
-}
+
+width: 806px;
+
+float: right;
+
+margin-bottom: 0px;
+
+margin-top: -34px;
+
+width: 324px;
+
+margin-right: 258px;
+
+}
 
 	.games img {
-width: 806px;
-float: left;
-width: 324px;
-margin-top: -57px;
-margin-left: 258px;
-}
+
+width: 806px;
+
+float: left;
+
+width: 324px;
+
+margin-top: -57px;
+
+margin-left: 258px;
+
+}
 
 	.gamestwo img {
-width: 806px;
-float: right;
-width: 324px;
-margin-bottom: 0px;
-margin-top: -54px;
-margin-right: 258px;
-}
+
+width: 806px;
+
+float: right;
+
+width: 324px;
+
+margin-bottom: 0px;
+
+margin-top: -54px;
+
+margin-right: 258px;
+
+}
 }
 
 
 @media (min-width: 1920px) {
 
 	h3 {
-font-size: 48px;
+
+font-size: 48px;
 }
 
 	h4 {
-font-size: 41px;
-margin-top: -2px;
+
+font-size: 41px;
+
+margin-top: -2px;
 }
 
 	h5 {
-margin-top: 239px;
-margin-bottom: 54px;
-font-size: 41px;
+
+margin-top: 239px;
+
+margin-bottom: 54px;
+
+font-size: 41px;
 }
 
 	h6 {
-margin-top: 210px;
-margin-bottom: 48px;
-font-size: 41px;
+
+margin-top: 210px;
+
+margin-bottom: 48px;
+
+font-size: 41px;
 }
 
 	.Music {
-margin-top: 232px;
-margin: -22px auto;
-margin-bottom: 0px;
-font-size: 25px;
-width: 50%;
+
+margin-top: 232px;
+
+margin: -22px auto;
+
+margin-bottom: 0px;
+
+font-size: 25px;
+
+width: 50%;
 }
 
 	.FnF {
-margin-top: 68px;
-margin-bottom: 0px;
-font-size: 25px;
-width: 49%;
+
+margin-top: 68px;
+
+margin-bottom: 0px;
+
+font-size: 25px;
+
+width: 49%;
 }
 
 	.Games {
-margin-top: 74px;
-width: 50%;
-font-size: 25px;
+
+margin-top: 74px;
+
+width: 50%;
+
+font-size: 25px;
 }
 
 	.music img{
@@ -736,47 +955,76 @@ font-size: 30px;
 	}
 
 	.musictwo img {
-width: 806px;
-float: right;
-margin-bottom: 0px;
-width: 324px;
-margin-top: -108px;
-margin-right: 150px;
+
+width: 806px;
+
+float: right;
+
+margin-bottom: 0px;
+
+width: 324px;
+
+margin-top: -108px;
+
+margin-right: 150px;
 }
 
 	.guys img {
-width: 806px;
-float: left;
-width: 324px;
-margin-left: 150px;
-margin-top: -101px;
+
+width: 806px;
+
+float: left;
+
+width: 324px;
+
+margin-left: 150px;
+
+margin-top: -101px;
 }
 
 	.guystwo img {
-width: 806px;
-float: right;
-margin-bottom: 0px;
-margin-top: -97px;
-width: 324px;
-margin-right: 150px;
+
+width: 806px;
+
+float: right;
+
+margin-bottom: 0px;
+
+margin-top: -97px;
+
+width: 324px;
+
+margin-right: 150px;
 }
 
 	.games img {
-width: 806px;
-float: left;
-width: 324px;
-margin-top: -57px;
-/* margin-bottom: 94px; */
-margin-left: 150px;
+
+width: 806px;
+
+float: left;
+
+width: 324px;
+
+margin-top: -57px;
+
+/* margin-bottom: 94px; */
+
+margin-left: 150px;
 }
 
 	.gamestwo img {
-width: 806px;
-float: right;
-width: 324px;
-margin-bottom: 0px;
-margin-top: -54px;
-margin-right: 150px;
+
+width: 806px;
+
+float: right;
+
+width: 324px;
+
+margin-bottom: 0px;
+
+margin-top: -54px;
+
+margin-right: 150px;
 }
 }
 @media (min-width: 820px) {
