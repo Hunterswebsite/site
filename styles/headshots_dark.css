@@ -140,71 +140,60 @@ body{
 }
 
 @media (min-width: 550px) {
+ main img {
+	width: 47%;}
 
-  main img {
-		width: 47%;
-		}
-
-	.dropdown-content {
-		margin-left: 115px;
-		margin-top: 2px;
-		}
+.dropdown-content {
+	margin-left: 115px;
+	margin-top: 2px;}
 }
 
 @media (min-width: 1200px) {
+  
+  main img {
+	width: 32%;}
 
-	 main img {
-		 width: 32%;}
+  header { 
+	font-size: 24px;	 
+	text-align: left;}
 
-	 header {
-		 
-font-size: 24px;
-		 
-text-align: left;
-		}
-
- 	.dropdown-content {
-	   margin-left: 115px;
-	   margin-top: 2px;
-	   }
+ .dropdown-content {
+	margin-left: 115px;
+	margin-top: 2px;}
 }
 
 @media (min-width: 1750px) {
-
-	main img {
-		width: 22%;}
+  main img {
+	width: 22%;}
 
  .dropdown-content {
-		margin-left: 115px;
-		margin-top: 4px;
-		width: 5%;
-		}
+	margin-left: 115px;
+	margin-top: 4px;
+	width: 5%;}
 }
 
 @media (min-width: 2000px) {
 
-	main img {
-		/* margin-left: 121px; */
-		width: 18%;
-		}
+  main img {
+	width: 18%;}
 
  .pic1 img {
-	 	 margin-top: 161px;
-	 	 box-shadow: -11px 9px 22px 10px black;
-	 	 float: left;
-	}
+	 margin-top: 161px;
+	 box-shadow: -11px 9px 22px 10px black;
+	 float: left;}
 
  .pic2 img {
 	 margin-top: 142px;
 	 width: 20%;
 	 margin-left: -423px;
 	 float: none;
-	 box-shadow: 2px 9px 22px 10px black;
-	}
+	 box-shadow: 2px 9px 22px 10px black;}
+	
  .pic3 img {
 	 margin-right: 200px;
-	 margin-top: -477px;
+	 margin-top: -492px;
 	 box-shadow: 13px 9px 22px 10px black;
 	 float: right;
+	 width: 20%;
 	 }
  }
