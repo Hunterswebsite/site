@@ -375,6 +375,13 @@ section h2{
 			line-height: 30px;
 			font-size: 19px;
 			}
+		
+		.dropdown-content {
+			margin-top: 1px;
+			font-size: 21px;
+			margin-left: 112px;
+			width: 22%;
+			}
 	}
 
 @media (min-width: 1350px) {
@@ -442,6 +449,7 @@ section h2{
 	.dropdown-content {
 		font-size: 20px;
 		margin-left: 111px;
+		width: 14%
 		}
 }
 
