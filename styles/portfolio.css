@@ -103,20 +103,32 @@ body{
 		}
 
 	.Me img {
-width: 61%;
-border-radius: 20px;
-margin: -48px auto;
-float: none;
-}
+
+width: 61%;
+
+border-radius: 20px;
+
+margin: -48px auto;
+
+float: none;
+
+}
 
 	main h1 {
-font-weight: 100;
-font-family: Franklin Gothic;
-font-size: 22px;
-margin: 84px auto;
-line-height: 2;
-width: 82%;
-}
+
+font-weight: 100;
+
+font-family: Franklin Gothic;
+
+font-size: 22px;
+
+margin: 84px auto;
+
+line-height: 2;
+
+width: 82%;
+
+}
 
 	main h2 {
 		font-weight: 100;
@@ -128,25 +140,41 @@ body{
 	}
 
 main h3 {
-font-family: Franklin Gothic;
-font-weight: 100;
-font-size: 17px;
-margin: 63px auto;
-line-height: 2;
-width: 101%;
+
+font-family: Franklin Gothic;
+
+font-weight: 100;
+
+font-size: 17px;
+
+margin: 63px auto;
+
+line-height: 2;
+
+width: 101%;
 }
 
 .MyResume {
-/* text-decoration: none; */
-/* font-weight: 700; */
-font-size: 19px;
-color: black;
-/* border: solid black; */
-display: block;
-/* width: 85%; */
-padding-top: -4px;
-font-family: Franklin Gothic;
-margin-top: -112px;
+
+/* text-decoration: none; */
+
+/* font-weight: 700; */
+
+font-size: 19px;
+
+color: black;
+
+/* border: solid black; */
+
+display: block;
+
+/* width: 85%; */
+
+padding-top: -4px;
+
+font-family: Franklin Gothic;
+
+margin-top: -112px;
 }
   main p {
 		/* float: right; */
@@ -170,27 +198,41 @@ main h3 {
 		}
 
 	main h1 {
-/* font-weight: 100; */
-font-size: 25px;
-width: 86%;
-}
+
+/* font-weight: 100; */
+
+font-size: 25px;
+
+width: 86%;
+
+}
 
 	main h2 {
-font-size: 20px;
-width: 86%;
+
+font-size: 20px;
+
+width: 86%;
 	}
 
 	main h3 {
-font-family: Franklin Gothic;
-font-weight: 100;
-font-size: 20px;
-margin: 63px auto;
-line-height: 2;
-width: 94%;
-}
+
+font-family: Franklin Gothic;
+
+font-weight: 100;
+
+font-size: 20px;
+
+margin: 63px auto;
+
+line-height: 2;
+
+width: 94%;
+
+}
 
 .Me img {
-width: 50%;
+
+width: 50%;
 }
 
   main p {
@@ -222,35 +264,54 @@ main h3 {
 		}
 
 	main h1 {
-margin-top: 123px;
-}
+
+margin-top: 123px;
+
+}
 
 main h2 {
-width: 100%;
-float: right;
-margin-top: 144px;
-/* margin-right: 1px; */
-/* margin-left: 16px; */
+
+width: 100%;
+
+float: right;
+
+margin-top: 144px;
+
+/* margin-right: 1px; */
+
+/* margin-left: 16px; */
 }
 
 main h3 {
-width: 100%;
-margin: 41px auto;
-/* float: right; */
+
+width: 100%;
+
+margin: 41px auto;
+
+/* float: right; */
 }
 
 
 	.Me img {
-width: 25%;
-float: left;
-margin-top: 27px;
-margin-left: 207px;
-}
+
+width: 23%;
+
+float: left;
+
+margin-top: 27px;
+
+margin-left: 207px;
+
+}
 .MyResume {
-float: right;
-width: 11%;
-margin-right: -73px;
-margin-top: 0px;
+
+float: right;
+
+width: 11%;
+
+margin-right: -73px;
+
+margin-top: 0px;
 }
  .dropdown-content a {
 		font-size: 19px;}
@@ -278,26 +339,37 @@ margin-top: 123px;
 }
 
 main h2 {
-font-size: 24px;
-width: 100%;
-float: right;
-/* letter-spacing: 1px; */
-margin-top: 144px;
-/* margin-right: 1px; */
-/* margin-left: 16px; */
+
+font-size: 24px;
+
+width: 100%;
+
+float: right;
+
+/* letter-spacing: 1px; */
+
+margin-top: 144px;
+
+/* margin-right: 1px; */
+
+/* margin-left: 16px; */
 }
 
 main h3 {
-width: 100%;
-margin: 41px auto;
-/* float: right; */
-font-size: 24px;
+
+width: 100%;
+
+margin: 41px auto;
+
+/* float: right; */
+
+font-size: 24px;
 }
 
 
 	.Me img {
 
-width: 25%;
+width: 23%;
 
 float: left;
 
@@ -341,28 +413,43 @@ margin-top: 123px;
 }
 
 main h2 {
-font-size: 23px;
-width: 100%;
-float: right;
-/* letter-spacing: 1px; */
-margin-top: 144px;
-/* margin-right: 1px; */
-/* margin-left: 16px; */
+
+font-size: 23px;
+
+width: 100%;
+
+float: right;
+
+/* letter-spacing: 1px; */
+
+margin-top: 144px;
+
+/* margin-right: 1px; */
+
+/* margin-left: 16px; */
 }
 
 main h3 {
-width: 91%;
-margin: 78px auto;
-/* float: right; */
-font-size: 22px;
+
+width: 91%;
+
+margin: 78px auto;
+
+/* float: right; */
+
+font-size: 22px;
 }
 
 
 	.Me img {
-width: 21%;
-float: left;
-margin-top: 27px;
-margin-left: 323px;
+
+width: 21%;
+
+float: left;
+
+margin-top: 27px;
+
+margin-left: 323px;
 }
 .MyResume {
 
@@ -395,26 +482,40 @@ margin-top: 0px;
 		}
 
 	main h1 {
-font-size: 31px;
-margin-top: 123px;
+
+font-size: 31px;
+
+margin-top: 123px;
 }
 
 main h2 {
-font-size: 24px;
-width: 100%;
-float: right;
-line-height: 3;
-/* letter-spacing: 1px; */
-margin-top: 170px;
-/* margin-right: 1px; */
-/* margin-left: 16px; */
+
+font-size: 24px;
+
+width: 100%;
+
+float: right;
+
+line-height: 3;
+
+/* letter-spacing: 1px; */
+
+margin-top: 170px;
+
+/* margin-right: 1px; */
+
+/* margin-left: 16px; */
 }
 
 main h3 {
-width: 91%;
-margin: 141px auto;
-/* float: right; */
-font-size: 26px;
+
+width: 91%;
+
+margin: 141px auto;
+
+/* float: right; */
+
+font-size: 26px;
 }
 
 
