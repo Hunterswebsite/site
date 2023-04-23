@@ -463,7 +463,7 @@ section h2{
 		text-align: center;
 		letter-spacing: 2px;
 		line-height: 30px;
-		font-size: 17px;
+		font-size: 15px;
 		}
 
 	.mid {
@@ -511,6 +511,7 @@ section h2{
 		}
 
 	.dropdown-content {
+		width:15%;
 		margin-left: 111px;
 		}
 }
