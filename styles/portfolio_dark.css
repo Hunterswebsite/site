@@ -146,30 +146,22 @@ a {
 	header {
 		margin-left: -2px;
 		width: 100%;
-		font-size: 24px;
-		}
+		font-size: 24px;}
 
 	.Me img {
-
-width: 61%;
-
-border-radius: 20px;
-
-margin: -48px auto;
-
-float: none;
-
-}
+		width: 61%;
+		border-radius: 20px;
+		margin: -48px auto;
+		float: none;}
 
 	main h1 {
-color: #c3c3c3;
-font-weight: 100;
-font-family: Franklin Gothic;
-font-size: 22px;
-margin: 84px auto;
-line-height: 2;
-width: 82%;
-}
+		color: #c3c3c3;
+		font-weight: 100;
+		font-family: Franklin Gothic;
+		font-size: 22px;
+		margin: 84px auto;
+		line-height: 2;
+		width: 82%;}
 
 	main h2 {
 		font-weight: 100;
@@ -177,54 +169,31 @@ float: none;
 		font-size: 18px;
 		width: 82%;
 		line-height: 2;
-		margin: 74px auto;
-	}
+		margin: 74px auto;}
 
-main h3 {
+	main h3 {
 
-font-family: Franklin Gothic;
+		font-family: Franklin Gothic;
+		font-weight: 100;
+		font-size: 17px;
+		margin: 63px auto;
+		line-height: 2;
+		width: 101%;}
 
-font-weight: 100;
+	.MyResume {
 
-font-size: 17px;
-
-margin: 63px auto;
-
-line-height: 2;
-
-width: 101%;
-}
-
-.MyResume {
-
-/* text-decoration: none; */
-
-/* font-weight: 700; */
-
-font-size: 19px;
-
-color: black;
-
-/* border: solid black; */
-
-display: block;
-
-/* width: 85%; */
-
-padding-top: -4px;
-
-font-family: Franklin Gothic;
-
-margin-top: -112px;
-}
-  main p {
-		/* float: right; */
+		font-size: 19px;
+		color: black;
+		display: block;
+		padding-top: -4px;
+		font-family: Franklin Gothic;
+		margin-top: -112px;}
+	
+  	main p {
 		font-size: 19px;
 		line-height: 2;
 		margin: 7px auto;
-		/* margin-right: 35px; */
-		width: 87%;
-		}
+		width: 87%;}
 
 
 	.dropdown-content a {
@@ -335,7 +304,7 @@ margin: 41px auto;
 
 	.Me img {
 
-width: 25%;
+width: 23%;
 
 float: left;
 
@@ -410,7 +379,7 @@ font-size: 24px;
 
 	.Me img {
 
-width: 25%;
+width: 23%;
 
 float: left;
 
